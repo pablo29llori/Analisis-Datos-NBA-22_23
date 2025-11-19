@@ -1,6 +1,7 @@
 # 🏀 Análisis y Predicción de los Salarios en la NBA en base al Rendimiento Estadístico de los Jugadores Temporada 2022/23
 ## Trabajo grupal — 5 de mayo de 2025
 **Grupo 4**
+
 Universidad de Oviedo — Facultad de Ciencias.  
 Asignatura: *Análisis de Datos*.  
 
