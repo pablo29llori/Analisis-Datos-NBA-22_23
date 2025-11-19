@@ -18,16 +18,16 @@ Documento inicial que recoge los objetivos del proyecto, la motivación del estu
 Desarrollo completo del estudio, estructurado en los siguientes bloques:
 
 - **Descripción del conjunto de datos**, incluyendo variables ofensivas, defensivas, salariales y de juego.  
-- **Análisis Exploratorio de Datos (EDA)**, con estudio de distribuciones, correlaciones, comparativas por posición, visualizaciones y patrones iniciales.  
-- **Reducción de la dimensionalidad mediante PCA**, analizando componentes principales, varianza explicada, interpretación de cargas, y proyección de jugadores.  
+- **Análisis Exploratorio de Datos (EDA)**, con estudio de distribuciones, comparativas por posición, correlaciones, visualizaciones y patrones iniciales.  
+- **Reducción de la dimensionalidad mediante PCA**, analizando componentes principales, varianza explicada, cargas y proyección de jugadores.  
 - **Modelos de regresión** (Lineal, Ridge y Lasso), con comparación de desempeño, análisis de coeficientes y métricas como R² y RMSE.  
-- **Clustering defensivo mediante k-means**, identificando perfiles defensivos y tipologías de jugadores según métricas clave.  
-- **Análisis por posición**, comparando rendimiento y salario entre guards, forwards y centers.  
+- **Clustering defensivo mediante k-means**, identificando perfiles y tipologías de jugadores según métricas defensivas.  
+- **Análisis por posición**, comparando rendimiento, estilo de juego y diferencias salariales entre guards, forwards y centers.  
 - **Análisis de tiro**, estudiando eficiencia, rendimiento ofensivo y métricas de tiro exterior e interior.  
-- **Red neuronal predictiva**, implementada en Python, para aproximar el salario mediante un enfoque no lineal.  
-- **Conclusiones finales**, integrando los hallazgos de todo el estudio.  
+- **Red neuronal predictiva**, implementada en Python, para aproximar el salario mediante un modelo no lineal.  
+- **Conclusiones finales**, integrando los hallazgos globales del trabajo.  
 
-📌 **Todo el código utilizado (en R y Python) está incluido dentro del propio informe**, distribuido en cada sección correspondiente para asegurar la total reproducibilidad del trabajo.  
+📌 **El informe incluye todo el código en R y Python, junto con sus correspondientes gráficos, explicaciones y análisis detallados**, de modo que el estudio es completamente reproducible y está documentado de forma integrada dentro del propio PDF.  
 
 📄 `Informe_Analisis_NBA_22_23.pdf`.  
 
