@@ -1,70 +1,51 @@
-# 🏀 Análisis de Datos NBA: Eficiencia, Salario y Modelos Predictivos  
+# 🏀 Análisis y Predicción de los Salarios en la NBA en base al Rendimiento Estadístico de los Jugadores  
+## Temporada 2022/23  
 ## Trabajo grupal — 5 de mayo de 2025  
-**Equipo 6**  
+**Grupo 4**  
 Universidad de Oviedo — Facultad de Ciencias  
 Asignatura: *Análisis de Datos*
 
-Este proyecto analiza el rendimiento de jugadores NBA y su relación con el salario, utilizando un enfoque completo de análisis exploratorio, reducción de la dimensionalidad, segmentación y modelización. El trabajo combina técnicas clásicas de análisis multivariante con modelos estadísticos y de machine learning.
-
----
-
-## 📊 Contenido del estudio
-
-El informe aborda los siguientes bloques principales:
-
-- **Análisis descriptivo** del dataset NBA: distribución salarial, perfil de minutos, eficiencia, tiro, edad y otros indicadores clave.  
-- **Análisis de componentes principales (PCA)** para estudiar la variabilidad del rendimiento y reducir la dimensión del espacio de estadísticas de juego.  
-- **Análisis de eficiencia vs salario**, explorando correlaciones y patrones entre rendimiento y compensación.  
-- **Modelos de regresión** aplicados al salario:  
-  - Regresión lineal  
-  - Ridge  
-  - Lasso  
-- **Clustering (k-means)** para identificar perfiles de jugadores según métricas de rendimiento.  
-- **Red neuronal** para predecir salario a partir de estadísticas individuales.  
-- **Análisis por posición** y construcción de arquetipos de jugadores.  
-- **Análisis de tiro**, métricas avanzadas y visualización del rendimiento ofensivo.
+Este proyecto analiza la relación entre el rendimiento estadístico de los jugadores de la NBA y su salario, aplicando técnicas de análisis exploratorio, PCA, clustering defensivo, modelos de regresión y una red neuronal predictiva. El objetivo es identificar perfiles de jugadores, estudiar patrones de rendimiento y evaluar la capacidad explicativa y predictiva de distintas variables sobre el salario.
 
 ---
 
 ## 📁 Contenido del repositorio
 
 ### **1. Informe principal**  
-Incluye el desarrollo completo del análisis, los resultados de cada bloque metodológico y las conclusiones finales.  
-📄 `Informe-Trabajo-Analisis-Datos.pdf`.
+Incluye el desarrollo completo del estudio: descripción del conjunto de datos, análisis exploratorio, PCA, modelos de regresión, clustering defensivo, análisis por posición, red neuronal y conclusiones finales.  
+📄 `Informe_Analisis_NBA_22_23.pdf`
 
-### **2. Anexo (si lo subes más adelante)**  
-Si decides incluir el código, aquí se documentará.
+### **2. Informe preliminar**  
+Documento inicial con los objetivos, las fuentes de datos y la planificación del proyecto.  
+📄 `Informe_Preliminar.pdf`
 
 ---
 
-## 👥 Mi contribución personal en el proyecto  
-Soy **Pablo Llorián González**, integrante del **Equipo 6**, responsable de:
+## 👥 Mi contribución personal  
+Soy **Pablo Llorián González**, integrante del **Grupo 4**, responsable de la:
 
 ### 🔹 *Redacción completa de la sección de Resultados del informe*  
-Mi aportación incluyó:
+Incluyendo:
 
-- Interpretación de los resultados obtenidos en todos los bloques del análisis.  
-- Redacción detallada de **todas las subsecciones** de resultados:  
-  - PCA  
-  - Relación eficiencia–salario  
-  - Modelos de regresión  
-  - Clustering k-means  
-  - Red neuronal predictiva  
-  - Análisis por posición  
-  - Análisis de tiro  
-- Integración de las visualizaciones y explicación técnica de su significado.  
-- Conexión de los resultados con los objetivos del estudio y elaboración de conclusiones parciales y finales.
+- Interpretación del análisis exploratorio  
+- Resultados del PCA  
+- Relación entre eficiencia y salario  
+- Modelos de regresión (Lineal, Ridge, Lasso)  
+- Clustering defensivo y perfiles de jugadores  
+- Análisis por posición  
+- Resultados de la red neuronal  
+- Integración y explicación de visualizaciones  
+- Conclusiones parciales y finales del estudio
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
-
-- **Python** (pandas, scikit-learn, matplotlib, seaborn, numpy)  
-- **R** (tidyverse)  
+- **R** (tidyverse, factoextra, cluster…)  
+- **Python** (pandas, scikit-learn, numpy, matplotlib)  
 - **LaTeX** para la elaboración del informe  
-- **GitHub** para documentación y control del proyecto  
+- **GitHub** para documentación del proyecto  
 
 ---
 
 ## 📅 Fecha  
-5 de mayo de 2025.
+5 de mayo de 2025
