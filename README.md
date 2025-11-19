@@ -1,5 +1,5 @@
-# 🏀 Análisis y Predicción de los Salarios en la NBA en base al Rendimiento Estadístico de los Jugadores Temporada 2022/23.  
-## Trabajo grupal — 5 de mayo de 2025.  
+# 🏀 Análisis y Predicción de los Salarios en la NBA en base al Rendimiento Estadístico de los Jugadores Temporada 2022/23
+## Trabajo grupal — 5 de mayo de 2025
 **Grupo 4**.  
 Universidad de Oviedo — Facultad de Ciencias.  
 Asignatura: *Análisis de Datos*.  
@@ -8,13 +8,13 @@ Este proyecto estudia la relación entre el rendimiento estadístico de los juga
 
 ---
 
-## 📁 Contenido del repositorio.
+## 📁 Contenido del repositorio
 
-### **1. Informe preliminar.**  
+### **1. Informe preliminar**  
 Documento inicial que recoge los objetivos del proyecto, la motivación del estudio, la fuente de datos utilizada y la planificación del trabajo.  
-📄 `Informe_Preliminar.pdf`.  
+📄 `Informe_Preliminar.pdf`
 
-### **2. Informe principal.**  
+### **2. Informe principal**  
 Desarrollo completo del estudio, estructurado en los siguientes bloques:
 
 - **Descripción del conjunto de datos**, incluyendo variables ofensivas, defensivas, salariales y de juego.  
@@ -29,11 +29,11 @@ Desarrollo completo del estudio, estructurado en los siguientes bloques:
 
 📌 **El informe incluye todo el código en R y Python, junto con sus correspondientes gráficos, explicaciones y análisis detallados**, de modo que el estudio es completamente reproducible y está documentado de forma integrada dentro del propio PDF.  
 
-📄 `Informe_Analisis_NBA_22_23.pdf`.  
+📄 `Informe_Analisis_NBA_22_23.pdf`
 
 ---
 
-## 👥 Mi contribución personal.  
+## 👥 Mi contribución personal 
 Soy **Pablo Llorián González**, integrante del **Grupo 4**, responsable de la **redacción completa de la sección de Resultados del informe**. Mi aportación incluyó:
 
 - Interpretación del análisis exploratorio.  
@@ -48,7 +48,7 @@ Soy **Pablo Llorián González**, integrante del **Grupo 4**, responsable de la 
 
 ---
 
-## 🛠️ Tecnologías utilizadas.  
+## 🛠️ Tecnologías utilizadas  
 - **R** (tidyverse, factoextra, cluster…).  
 - **Python** (pandas, scikit-learn, numpy, matplotlib).  
 - **LaTeX** para la elaboración del informe.  
@@ -56,5 +56,5 @@ Soy **Pablo Llorián González**, integrante del **Grupo 4**, responsable de la 
 
 ---
 
-## 📅 Fecha.  
+## 📅 Fecha
 5 de mayo de 2025.  
