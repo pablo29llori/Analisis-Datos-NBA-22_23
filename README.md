@@ -5,46 +5,47 @@
 Universidad de Oviedo — Facultad de Ciencias.  
 Asignatura: *Análisis de Datos*.  
 
-Este proyecto estudia la relación entre el rendimiento estadístico de los jugadores de la NBA y su salario, aplicando técnicas de análisis exploratorio, PCA, clustering defensivo, modelos de regresión y una red neuronal predictiva. El objetivo es identificar perfiles de jugadores, evaluar patrones de rendimiento y analizar la capacidad explicativa y predictiva de distintas métricas sobre el salario.  
+Este proyecto estudia la relación entre el rendimiento estadístico de los jugadores de la NBA y su salario, aplicando técnicas de análisis exploratorio, PCA, clustering defensivo, modelos de regresión y una red neuronal predictiva. El objetivo es identificar perfiles de jugadores, analizar patrones de rendimiento y evaluar la capacidad explicativa y predictiva de diferentes métricas sobre el salario.  
 
 ---
 
 ## 📁 Contenido del repositorio.
 
 ### **1. Informe preliminar.**  
-Documento inicial con los objetivos del proyecto, la fuente de datos utilizada, la motivación del estudio y la planificación del trabajo.  
+Documento inicial que recoge los objetivos del proyecto, la motivación del estudio, la fuente de datos utilizada y la planificación del trabajo.  
 📄 `Informe_Preliminar.pdf`.  
 
 ### **2. Informe principal.**  
-Incluye el desarrollo completo del estudio, estructurado en:  
+Desarrollo completo del estudio, estructurado en los siguientes bloques:
 
-- **Descripción del conjunto de datos** utilizado (estadísticas oficiales de la temporada 2022/23).  
-- **Análisis exploratorio**, estudiando distribución salarial, rendimiento, eficiencia, minutos, posiciones y métricas avanzadas.  
-- **Reducción de la dimensionalidad con PCA**, identificando componentes principales y patrones de variabilidad entre jugadores.  
-- **Modelos de regresión** (Lineal, Ridge y Lasso) para aproximar el salario a partir de estadísticas individuales.  
-- **Clustering defensivo mediante k-means** para detectar perfiles de jugadores basados en métricas defensivas.  
-- **Análisis por posición**, explorando diferencias estructurales entre guards, forwards y centers.  
-- **Red neuronal predictiva**, implementada en Python, para aproximar el salario mediante un modelo no lineal.  
-- **Conclusiones** que resumen los hallazgos principales del análisis.  
+- **Descripción del conjunto de datos**, incluyendo variables ofensivas, defensivas, salariales y de juego.  
+- **Análisis Exploratorio de Datos (EDA)**, con estudio de distribuciones, correlaciones, comparativas por posición, visualizaciones y patrones iniciales.  
+- **Reducción de la dimensionalidad mediante PCA**, analizando componentes principales, varianza explicada, interpretación de cargas, y proyección de jugadores.  
+- **Modelos de regresión** (Lineal, Ridge y Lasso), con comparación de desempeño, análisis de coeficientes y métricas como R² y RMSE.  
+- **Clustering defensivo mediante k-means**, identificando perfiles defensivos y tipologías de jugadores según métricas clave.  
+- **Análisis por posición**, comparando rendimiento y salario entre guards, forwards y centers.  
+- **Análisis de tiro**, estudiando eficiencia, rendimiento ofensivo y métricas de tiro exterior e interior.  
+- **Red neuronal predictiva**, implementada en Python, para aproximar el salario mediante un enfoque no lineal.  
+- **Conclusiones finales**, integrando los hallazgos de todo el estudio.  
 
-📌 **Todo el código empleado en el proyecto (R y Python) está incluido dentro del propio informe**, perfectamente organizado en cada sección para que el estudio sea completamente reproducible.  
+📌 **Todo el código utilizado (en R y Python) está incluido dentro del propio informe**, distribuido en cada sección correspondiente para asegurar la total reproducibilidad del trabajo.  
 
 📄 `Informe_Analisis_NBA_22_23.pdf`.  
 
 ---
 
 ## 👥 Mi contribución personal.  
-Soy **Pablo Llorián González**, integrante del **Grupo 4**, responsable de la **redacción completa de la sección de Resultados del informe**. Mi aportación incluyó:  
+Soy **Pablo Llorián González**, integrante del **Grupo 4**, responsable de la **redacción completa de la sección de Resultados del informe**. Mi aportación incluyó:
 
 - Interpretación del análisis exploratorio.  
-- Explicación detallada de los resultados del PCA.  
-- Análisis de la relación entre eficiencia y salario.  
-- Interpretación de los modelos de regresión (Lineal, Ridge y Lasso).  
-- Análisis del clustering defensivo y caracterización de perfiles de jugadores.  
-- Estudio comparativo por posición.  
-- Interpretación de los resultados obtenidos con la red neuronal.  
-- Integración y explicación de todas las visualizaciones.  
-- Redacción de conclusiones parciales y finales.  
+- Redacción y explicación de los resultados del PCA.  
+- Estudio de la relación entre eficiencia, rendimiento y salario.  
+- Interpretación de modelos de regresión (Lineal, Ridge y Lasso).  
+- Análisis de los clusters defensivos y descripción de roles y perfiles.  
+- Comparativa de estadísticas y rendimiento por posición.  
+- Análisis e interpretación de la red neuronal en Python.  
+- Inclusión y explicación técnica de todas las visualizaciones.  
+- Elaboración de conclusiones parciales y finales del estudio.  
 
 ---
 
